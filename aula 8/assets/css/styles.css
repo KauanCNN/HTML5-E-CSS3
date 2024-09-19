@@ -15,6 +15,10 @@
 }
 
 .flex-item{
+     /* flex-grow: 1;
+    flex-basis: 320px;
+    flex-shrink; 1; 
+flex: 1 1 320px;*/
     color: #fff;
     width: 33.33%;
     background: red;
